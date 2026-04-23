@@ -1,1 +1,2 @@
-This is my OSS Practical File
+git clone https://github.com/<partner-username>/OSS_Practical.git
+cd OSS_Practical
